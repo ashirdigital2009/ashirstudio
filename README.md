@@ -1,2 +1,10 @@
-# ashirstudio
-Creative Designer &amp; Web Developer | Providing Logo Design, CV Design, Website Development, Editing &amp; IT Solutions. Passionate about delivering high-quality digital services.
+Choose visibility *
+Choose who can see and commit to this repository
+
+Add README
+READMEs can be used as longer descriptions. About READMEs
+Off
+Add .gitignore
+.gitignore tells git which files not to track. About ignoring files
+Add license
+Licenses explain how others can use your code. About licenses
